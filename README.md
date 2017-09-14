@@ -6,6 +6,7 @@ Este trabalho consistiu na elaboração de um script, que analisa uma captura de r
 # Executar o script
 
 sudo ./ifc_grupo5.sh captura.pcap pasta_de_saida_resultados
-![alt text]()
+
+![alt text](https://raw.githubusercontent.com/luis-sousa/PCAP-Info-Extract/master/script_menu.png)
  
 
